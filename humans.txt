@@ -1,0 +1,16 @@
+/* EQUIPE */
+  Front-End Developer: Nome do Front-End
+  Site: http://dominio.com.br
+  Twitter: @twitter
+  Localização: São Paulo - SP
+
+
+
+/* AGRADECIMENTOS */
+  Nomes (& URL): 
+
+
+/* FERRAMENTAS */
+  Standards: HTML5, CSS3
+  Components: CSS3-MediaQueries, HTML5shiv, BootStrap, LESS, Modernizr, jQuery, Selectivizr, SWFObject, Chrome Frame
+  Software: MacOS X, SublimeText2, Photoshop, Fireworks, Ubuntu, Apache, VirtualBox, DropBox, CodeKit
